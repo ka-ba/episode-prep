@@ -1,0 +1,33 @@
+* Historie der Firma
+  - Was macht Prinoth sonst noch?
+* Herausforderungen bei Pistenraupen
+  - Was macht eine *gute* Raupe aus?
+  - Schneedichte, Gleichmäßigkeit?
+* Werkzeuge an der Raupe
+* Winde  
+  - drehbar
+  - Wozu wird die eingesetzt?
+  - Fahreigenschaften mit WInde
+    (Koordination Winde+Fahren)
+* Envelope
+  - Steigung
+  - Seitenneigung 
+  - Fahrerunterstütuzung?
+
+* Antriebsstrang
+  - Motoren 
+  - Leistungsdaten
+  - Kette
+  - andere Komponenten?
+
+45 steigung
+
+
+* Unterstützung des Fahrers bei der Arbeit 
+  - Bedienung; wie fährt man das?
+  - Ausstattung Cockpit
+  - Digitalisierung, GPS, Tracks, Internet
+    Schneehöhenmessung
+
+
+* Wie ist beim Leitwolf X anders?

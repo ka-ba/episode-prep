@@ -10,6 +10,7 @@
   - Erstellen eines Gutachtens durch den Gutachter
     bzw. Rechtsmedizin
   - Verwendung all dessen im Gericht zwecks Abwägung
+  - Wann endet die Spurensuche? Wird so lange gesucht, bis ein plausibler Tathergang erklärbar ist?
 
 * Überblick über die verschiedenen Fachgebiete und Abteilungen am LKA
 
@@ -38,14 +39,23 @@
 Spezifische Fachgebiete (separate Gespräche, geplant)
 -------------------------------------------------------
 
-* Daktyloskopie
+* Daktyloskopie - 241
   - Wie werden die am Tatort erfasst?
   - Wie werden sie abgenommen?
   - Wie werden sie dann ausgewertet?
   - Datenbank
   - Beweiskraft
 
-* DNA
+* Waffen - 251
+  - Finden von Patronen am Tatort
+  - Abgleich Patrone/Kugel und Lauf
+  - Allgemein Waffenzuordnung
+  - Was ist Ballistik? Wie geht man da vor? Bezug zum Tatort? Physik?
+  - Rekonstruktion der Flugbahn, Modelle, Werkzeuge
+  - Schmauchspuren
+  - Beweiskraft
+
+* DNA - 230
   - Woher bekommt man DNA: Blut, Haare
   - Wie extrahiert man die aus den Spuren am Tatort?
   - Abgleich mit Datenbank: Woher bekommt man diese?
@@ -56,11 +66,3 @@ Spezifische Fachgebiete (separate Gespräche, geplant)
   - Vorgehen bei der Sicherung, Sauberkeit
   - Beweiskraft
 
-* Waffen
-  - Finden von Patronen am Tatort
-  - Abgleich Patrone/Kugel und Lauf
-  - Allgemein Waffenzuordnung
-  - Was ist Ballistik? Wie geht man da vor? Bezug zum Tatort? Physik?
-  - Rekonstruktion der Flugbahn, Modelle, Werkzeuge
-  - Schmauchspuren
-  - Beweiskraft
